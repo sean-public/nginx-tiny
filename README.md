@@ -2,6 +2,12 @@
 
 Built-from-source container image of the [NGINX HTTP server](https://nginx.org/). 
 
+```
+docker pull seanpublic/nginx:tiny
+```
+
+
+
 Based on [`ricardbejarano/nginx`](https://hub.docker.com/r/ricardbejarano/nginx), which I couldn't get to build due to errors and wanted to shrink even further. This is not for use in environments or circumstances where there's a chance you'll want to easily debug the running process because the binary has been stripped of symbols.
 
 
