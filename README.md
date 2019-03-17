@@ -1,4 +1,4 @@
-# 🗜 nginx-tiny docker image
+# nginx-tiny docker image
 
 Built-from-source container image of the [NGINX HTTP server](https://nginx.org/). 
 
